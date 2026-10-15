@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# 复现输出（含 FinnGen 汇总统计片段，遵守数据条款，不入库）
+results/*
+!results/README.md
+# 必需输入数据（IV 清单与协调表；FinnGen 片段为 CC BY 4.0 授权，可再分发）
+!results/mvmr_docA_ivs_rebuilt.tsv
+!results/mediation_exposure_raw.tsv
+!results/mediation_ivs_5outcomes.tsv
+!results/_outcome_alleles_cache.tsv
+
+# 图输出
+figures/
