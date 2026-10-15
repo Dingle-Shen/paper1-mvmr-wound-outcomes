@@ -98,4 +98,4 @@ Code: MIT (see `LICENSE`). Data belong to their respective providers (OpenGWAS, 
 
 ## Manuscript code-availability statement (suggested)
 
-> Analysis code is available at [repository URL / DOI]. Public summary statistics from OpenGWAS and FinnGen (R9 and R12) were used; see the data availability statement for access procedures.
+> Analysis code is available at https://github.com/Dingle-Shen/paper1-mvmr-wound-outcomes. Public summary statistics from OpenGWAS and FinnGen (R9 and R12) were used; see the data availability statement for access procedures.
